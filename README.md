@@ -14,11 +14,11 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.anuraghazra.vercel.app/api?username=WarriorHanamy&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=WarriorHanamy&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.anuraghazra.vercel.app/api/top-langs/?username=WarriorHanamy&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=WarriorHanamy&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
