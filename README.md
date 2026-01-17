@@ -14,12 +14,12 @@
 ---
 
 <div align="center">
-  <table style="border: none;">
-    <tr style="border: none;">
-      <td width="70%" align="center" style="border: none;">
+  <table>
+    <tr>
+      <td width="70%" align="center" style="border: none; padding: 0;">
         <img src="https://github-readme-stats-fast.vercel.app/api?username=WarriorHanamy&show_icons=true&theme=catppuccin_latte" alt="GitHub Stats" />
       </td>
-      <td width="30%" align="center" style="border: none;">
+      <td width="30%" align="center" style="border: none; padding: 0;">
         <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=WarriorHanamy&layout=compact&theme=catppuccin_latte" alt="Top Languages" />
       </td>
     </tr>
