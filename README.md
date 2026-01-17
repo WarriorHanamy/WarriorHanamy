@@ -14,11 +14,16 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=WarriorHanamy&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=WarriorHanamy&layout=compact&theme=radical" alt="Top Languages" />
+  <table>
+    <tr>
+      <td width="70%" align="center">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=WarriorHanamy&show_icons=true&theme=catppuccin_latte" alt="GitHub Stats" />
+      </td>
+      <td width="30%" align="center">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=WarriorHanamy&layout=compact&theme=catppuccin_latte" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
