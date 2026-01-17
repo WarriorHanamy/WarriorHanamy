@@ -14,7 +14,11 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WarriorHanamy&theme=onedark&column=4&margin-w=15&margin-h=15" alt="GitHub Profile Trophy" />
+  <img src="https://github-readme-stats.anuraghazra.vercel.app/api?username=WarriorHanamy&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.anuraghazra.vercel.app/api/top-langs/?username=WarriorHanamy&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
