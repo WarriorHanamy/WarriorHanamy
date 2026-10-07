@@ -34,22 +34,23 @@ I'm currently working on **agentic embodied intelligence**, particularly mobile 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Tools
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Warp](https://img.shields.io/badge/warp-%23161336.svg?style=for-the-badge&logo=warp&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-%23000.svg?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-%2376B900.svg?style=for-the-badge)
 ![JAX](https://img.shields.io/badge/JAX-%23A42E2B.svg?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### AI
 
-![Anthropic](https://img.shields.io/badge/anthropic-%23D4915D.svg?style=for-the-badge&logo=anthropic&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-%234D6BFE.svg?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge)
-![Mimo](https://img.shields.io/badge/Mimo-%23222.svg?style=for-the-badge)
 
 ### Robotics & Simulation
 
