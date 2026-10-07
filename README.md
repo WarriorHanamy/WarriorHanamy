@@ -1,6 +1,5 @@
-**Hi!** I'm a graduate student from **Sun Yat-sen University**, focusing on the research on **autonomous** Vertical Takeoff and Landing (VTOL) vehicles.
-
----
+Hi! I'm a graduate student at Sun Yat-sen University, focusing on research into autonomous Vertical Takeoff and Landing (VTOL) vehicles.
+I'm currently working on **agentic embodied intelligence**, particularly mobile manipulation. Right now, I'm working on aerial manipulation.
 
 ## 🔮 Core Belief
 
